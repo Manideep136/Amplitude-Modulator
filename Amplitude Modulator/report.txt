@@ -1,0 +1,11 @@
+Plotted to 'D:\kicad\Amplitude Modulator\Gerber\Amplitude Modulator-F_Cu.gbr'.
+Plotted to 'D:\kicad\Amplitude Modulator\Gerber\Amplitude Modulator-B_Cu.gbr'.
+Plotted to 'D:\kicad\Amplitude Modulator\Gerber\Amplitude Modulator-F_Paste.gbr'.
+Plotted to 'D:\kicad\Amplitude Modulator\Gerber\Amplitude Modulator-B_Paste.gbr'.
+Plotted to 'D:\kicad\Amplitude Modulator\Gerber\Amplitude Modulator-F_Silkscreen.gbr'.
+Plotted to 'D:\kicad\Amplitude Modulator\Gerber\Amplitude Modulator-B_Silkscreen.gbr'.
+Plotted to 'D:\kicad\Amplitude Modulator\Gerber\Amplitude Modulator-F_Mask.gbr'.
+Plotted to 'D:\kicad\Amplitude Modulator\Gerber\Amplitude Modulator-B_Mask.gbr'.
+Plotted to 'D:\kicad\Amplitude Modulator\Gerber\Amplitude Modulator-Edge_Cuts.gbr'.
+Created Gerber job file 'D:\kicad\Amplitude Modulator\Gerber\Amplitude Modulator-job.gbrjob'.
+Info: Done.
